@@ -8,4 +8,4 @@ The derived variable is year-on-year cosine similarity of the consumer complaint
 
 While the charts for the different quintile portfolios are suggestive, their alphas in the Fama-French three factor model are unfortunately not statistically significant. Some ideas are provided for increasing statistical significance.
 
-The full write up with the code walk-through is available <a href="http://witolot.github.io">here</a>.
+The full write up with the code walk-through is available <a href="https://ecstatic-hugle-6a4190.netlify.app/">here</a>.
